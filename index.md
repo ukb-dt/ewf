@@ -10,7 +10,7 @@
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
-</iframe> https://www.youtube.com/watch?v=FSbq0T7j77g
+</iframe>  
 
 # A
 Exactly. *Amabutho* isn’t about harmony — it’s about **[synchrony](https://ukb-dt.github.io/flow/)**.
