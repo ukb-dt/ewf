@@ -1,6 +1,17 @@
 > *Birth of Tragedy of Commons*       
 > -- Pyromancer
 
+<!-- BlackRock CEO Larry Fink — "beginning of the tokenization of all assets" -->
+<iframe
+  width="75%"
+  height="450"
+  src="https://www.youtube.com/embed/FSbq0T7j77g?start=90&rel=0"
+  title="The $1 Trillion Tangled Web Of AI Deals Mapped Out"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe> https://www.youtube.com/watch?v=FSbq0T7j77g
+
 # A
 Exactly. *Amabutho* isn’t about harmony — it’s about **[synchrony](https://ukb-dt.github.io/flow/)**.
 
